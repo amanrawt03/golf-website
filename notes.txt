@@ -1,0 +1,4 @@
+marquee can be used to add infinite scroller functionality to a web page. 
+
+on moving the sroller faster the text is also moving faster
+change font
